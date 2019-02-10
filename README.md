@@ -6,7 +6,7 @@ Below instructions are for Windows
 
 1. Prerequisite - Java 8
 
-2. Download Spark from Spark’s official website[a link](http://spark.apache.org/downloads.html)
+2. Download Spark from [Spark’s official website](http://spark.apache.org/downloads.html)
 
 3. Download the .tgz file and Extract the .tgz file into C:\Spark
 
